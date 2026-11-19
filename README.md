@@ -1,2 +1,2 @@
 # Leaflets
-Hosts quantum programs written in Leaf with formal proof developed in Lean based on Alef library.
+Quantum programs written in Leaf with formal proofs developed in Lean, built upon the Alef library.
